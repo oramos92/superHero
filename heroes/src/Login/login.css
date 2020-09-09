@@ -1,0 +1,11 @@
+.loginForm{
+    margin: 10%;
+    max-width: 50%;
+    text-align: center;
+    display: inline-block;
+}
+
+.loginTitle{
+    margin-bottom: 20%;
+}
+

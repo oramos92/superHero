@@ -1,0 +1,21 @@
+input[type=text] {
+    padding: 6px;
+    margin-top: 8px;
+    font-size: 17px;
+    border: none;
+  }
+
+  .container div {
+    width: 40%;
+    padding: 10px;
+    margin-left: 30%;
+    background: #ddd;
+    border: none;
+    cursor: pointer;
+  }
+
+  .container{
+      margin-bottom: 2%;
+  }
+
+
